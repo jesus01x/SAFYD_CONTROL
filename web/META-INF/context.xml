@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/SAFYD_CONTROL"/>
+<!--<Resource name="jdbc/[YourDatabaseName]"
+          auth="Container"
+          type="javax.sql.DataSource"
+          username="[DatabaseUsername]"
+          password="[DatabasePassword]"
+          driverClassName="com.mysql.jdbc.Driver"
+          url="jdbc:mysql:/[yourserver]:3306/[yourapplication]"
+          maxActive="15"
+          maxIdle="3"/>-->

@@ -1,0 +1,13 @@
+[
+    {
+        "code": "Red",
+        "value1": "12",
+        "value2": "22",
+        "value3": "5",
+        "value4": "34",
+        "feature1": "square",
+        "feature2": "triangle",
+        "row_css": "danger"
+    }
+]
+          
